@@ -1,4 +1,16 @@
 # DrLove_user_interface
 
-a comprehensive and flexible mobile application interface. The application we designed is a dating advice application that allows users to share their experiences, insight, and point of view about relationship topics, issues, and Ideas. The user interacts with the application as one would with a social media application where they are able to make friends, chat, and message their friends, and scroll along a main feed. This allows for our users to learn from the ideas and input of other users. This application is designed to be a touch interface, where all expected inputs will be through the devices’ touch screen ability. The target audience for this application is males and females, ages 15 – 85 across all relationship statuses whether single, dating, married, divorced and everything in between.
-The great thing about Dr. Love is that its interface is designed to be familiar with other social media applications but with an easier mode of operation and predictability.
+# Name of application: Dr. Love
+
+**Project Overview**
+
+*Collaborated with peers to design a comprehensive and flexible mobile application interface. 
+
+*The application we designed is a dating advice application that allows users to share their experiences, insight, and point of view about relationship topics, issues, and Ideas. 
+
+*The user interacts with the application as one would with a social media application where they are able to make friends, chat, and message their friends, and scroll along a main feed. 
+
+*This allows for our users to learn from the ideas and input of other users. This application is designed to be a touch interface, where all expected inputs will be through the devices’ touch screen ability.
+
+
+
