@@ -13,4 +13,4 @@
 *This allows for our users to learn from the ideas and input of other users. This application is designed to be a touch interface, where all expected inputs will be through the devices’ touch screen ability.
 
 
-
+<img src'https://github.com/JermelWatson/DrLove_user_interface/blob/main/Screen%20Shot%202021-12-19%20at%205.12.47%20PM.png'>
